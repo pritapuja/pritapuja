@@ -1,7 +1,7 @@
 # ✨ Hi! Nice to see you 🕶️
 
 Welcome to my page!
-I'm Prita. Web and Mobile Developer
+I'm Prita. Web and Mobile Developer 💻.
 
 
 <!--
