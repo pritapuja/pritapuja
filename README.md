@@ -1,5 +1,7 @@
-# Hi! Nice to see you. 
-# 😎 I'm Prita 👋
+# ✨ Hi! Nice to see you 🕶️
+
+Welcome to my page!
+
 
 <!--
 **pritapuja/pritapuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +19,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
-- 🔥🔥🔥🔥🔥
+- 💕❤️💖💞💓🌸💝🌷🎀🩷🦩💻🌸💖
 
 ![good morning](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWgycmdpMG91OXFlN2xuZzRrc3IzaHR6cmZxYjc4eHk4eHN1cjR4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1X8XwNVmlhnkBugSBZ/giphy.gif)
