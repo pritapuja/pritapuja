@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 ##### My Github Stats
 
-![Prita's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritapuja&show_icons=true&theme=apprentice&hide=stars,issues)
+![Prita's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritapuja&show_icons=true&theme=date_night&hide=stars,issues)
 
 <!-- ![good morning](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWgycmdpMG91OXFlN2xuZzRrc3IzaHR6cmZxYjc4eHk4eHN1cjR4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1X8XwNVmlhnkBugSBZ/giphy.gif) -->
