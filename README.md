@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ReactJS and [**Laravel**](https://laravel.com).
+- 🌱 I’m currently learning [**ReactJS**](https://react.dev/) and [**Laravel**](https://laravel.com).
 - 💕❤️💖💞💓🌸💝🌷🎀🩷🦩💻🌸💖
 
 
