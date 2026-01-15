@@ -41,13 +41,13 @@ Here are some ideas to get you started:
 
 
 ##### 📊 GitHub Stats:
-<p align="left">
+<!-- <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=pritapuja&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&hide=stars" />
   <img width="49.5%" src="https://nirzak-streak-stats.vercel.app/?user=pritapuja&theme=date_night&hide_border=false" />
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritapuja&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </p>
-</p>
+</p> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pritapuja&icon=0&color=5)](https://visitcount.itsvg.in)
