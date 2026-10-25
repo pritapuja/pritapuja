@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![https://instagram.com/pritapujaastuti](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.youtube.com/@pritapujaastuti2402](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![https://www.linkedin.com/in/pritapujaastuti/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
 
-## 📊 GitHub Stats
+##### 📊 GitHub Stats
 
 <div align="center">
 
@@ -53,45 +53,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pritapuja&bg_color=1a1b27&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pritapuja&theme=radical&no-frame=true&no-bg=true&column=7" />
-
-</div>
-
----
-
-
-
-
-<!-- <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=pritapuja&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&hide=stars" />
-  <img width="49.5%" src="https://nirzak-streak-stats.vercel.app/?user=pritapuja&theme=date_night&hide_border=false" />
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritapuja&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-    </p>
-</p> -->
-
----
-[![](https://visitcount.itsvg.in/api?id=pritapuja&icon=0&color=5)](https://visitcount.itsvg.in)
-
-
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=pritapuja&theme=date_night&hide_border=false&include_all_commits=true&count_private=false) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pritapuja&theme=date_night&hide_border=false) <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritapuja&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
+![Profile Views](https://komarev.com/ghpvc/?username=pritapuja&label=Profile+Views&color=ff69b4&style=for-the-badge)
 
 <!-- ##### My Github Stats
 
